@@ -1,0 +1,22 @@
+{
+  "name": "es678910",
+  "version": "1.0.0",
+  "description": "learn es678910",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrick-prod/es678910.git"
+  },
+  "author": "patrick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrick-prod/es678910/issues"
+  },
+  "homepage": "https://github.com/patrick-prod/es678910#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
